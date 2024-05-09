@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m currently working on many mern stack projects<br>🌱 I’m currently learning typescript + NestJs + NextJS<br>🎓 Graduated from the Syrian Virtual University, Faculty of Informatics Engineering - specializing in software application development<br>🔭 Looking for an opportunity to study for a master's degree<br>
+🌱 I’m currently learning typescript + NextJS<br>🎓 Graduated from the Syrian Virtual University, Faculty of Informatics Engineering - specializing in software application development<br>🔭 Looking for an opportunity to study for a master's degree<br>
 
 
 
